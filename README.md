@@ -7,6 +7,6 @@ Send me an email @ <a href="mailto: damian.swan@st.gactc.edu">damian.swan@st.gac
 or @ <a href="mailto: damianmswan@icloud.com">damianmswan@icloud.com</a>
 Tech @ <a href="mailto: technology@sillylittle.tech">technology@sillylittle.tech</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianSwanAAJHS2&layout=donut&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=DamianSwanAAJHS2&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dswan36&layout=donut&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=dswan36&show_icons=true&theme=tokyonight)
 <sub>bonk!</sub>
